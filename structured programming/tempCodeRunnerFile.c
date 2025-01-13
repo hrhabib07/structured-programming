@@ -1,1 +1,1 @@
-result
+(a + b) * c 
